@@ -1,0 +1,38 @@
+body {
+    margin: 20px;
+    background-color: #101820;
+}
+
+.head {
+    color: rgb(227, 255, 227);
+    font-size: x-large;
+    font-style: oblique;
+    font-weight: 400;
+}
+
+button:hover {
+    border-radius: 4px;
+    background-color: #805243;
+    /* border: none; */
+    color: #FFFFFF;
+    text-align: center;
+    cursor: pointer;
+    margin: 6px;
+}
+
+.chat {
+    padding: 10px;
+    background-color: #e0cb15;
+    border: 2px solid #887373;
+    border-radius: 8px;
+    display: inline-block;
+}
+
+.msg {
+    padding: 5px 15px;
+    background-color: honeydew;
+    border: 1px solid rgb(190, 1, 1);
+    border-radius: 8px;
+    font-style: italic;
+
+}
